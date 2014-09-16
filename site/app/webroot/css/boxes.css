@@ -1,0 +1,105 @@
+.whiteBox {
+  border: 1px solid #d9d9d9;
+  color: #313131;
+  width: 430px;
+  padding: 15px;
+  position: absolute;
+  margin-right: 10px;
+  margin-left: 30px; 
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -o-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -khtml-border-radius: 8px;
+  border-radius: 8px;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(255, 255, 255, 0.61)), color-stop(100%, rgba(232, 232, 232, 0.61)));
+  background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.61), rgba(232, 232, 232, 0.61));
+  background-image: -moz-linear-gradient(rgba(255, 255, 255, 0.61), rgba(232, 232, 232, 0.61));
+  background-image: -o-linear-gradient(rgba(255, 255, 255, 0.61), rgba(232, 232, 232, 0.61));
+  background-image: -ms-linear-gradient(rgba(255, 255, 255, 0.61), rgba(232, 232, 232, 0.61));
+  background-image: linear-gradient(rgba(255, 255, 255, 0.61), rgba(232, 232, 232, 0.61));
+  -moz-transition: opacity 400ms ease 0.3s, top 200ms ease 140ms, height 340ms ease;
+  -webkit-transition: opacity 400ms ease 0.3s, top 200ms ease 140ms, height 340ms ease;
+  -o-transition: opacity 400ms ease 0.3s, top 200ms ease 140ms, height 340ms ease;
+  transition: opacity 400ms ease 0.3s, top 200ms ease 140ms, height 340ms ease;
+}
+#header .whiteBox {
+	display: inline;
+}
+.podnapisiBox {
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top: 1px solid whiteSmoke;
+	border-bottom: 1px solid whiteSmoke;
+	color: #999;
+	font-style: italic;
+	font-family: 'Open Sans', Arial, sans-serif;
+	text-align: center;
+}
+
+.desavanjaBox {
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 60px;
+	border-top: 1px solid #D8E0ED;	
+	color: #454545;
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 11px;	
+}
+.desavanjaBoxZadnja {
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 60px;
+	border-bottom: 1px solid #D8E0ED;	
+	color: #454545;
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 11px;	
+}
+.desavanjaBox a, .desavanjaBoxZadnja a {	
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: bold;
+}
+.desavanjaBox p, .desavanjaBoxZadnja p {
+	margin-top: 5px;
+}
+.desavanjaBox img{
+	float: left;
+	border: 4px solid #B3D2ED;
+	margin-right: 10px;
+	width: 50px;
+	height: 50px;
+}
+.desavanjaBox img:hover {
+	border: 4px solid #98bcdc; 
+}
+
+.zutiBox {
+	background-color: #F9E48F;
+	border: 1px solid #F0D567;
+	padding: 10px;
+	color: #A26C0D;
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.4);
+	margin: 10px;
+	text-align: center;
+}
+
+.text-box{
+	background: #eee;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	padding: 19px 19px 19px 19px;
+	margin-bottom: 19px;
+	border:  1px solid #e3e3e3;        
+}
+
+.text-box a:link {
+    color: #C00;
+}
+
+#socialBox {     
+    max-width: 260px;    
+    vertical-align:top !important;    
+}
