@@ -1,4 +1,5 @@
-Bihoskop.Backend
+Bihoskop.BackEnd
 ================
 
-Data backend and web site for Bihoskop. CakePHP / PHP.
+Data back-end and web site for Bihoskop. CakePHP / PHP.
+

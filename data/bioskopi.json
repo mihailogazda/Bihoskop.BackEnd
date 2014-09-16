@@ -1,0 +1,23 @@
+{
+    "Banja Luka": [{
+        "idx": 3001,
+        "adresa": "Bana Milosavljevica bb",
+        "naziv": "Palas",        
+        "lokacija": "44.769817,17.189527",
+        "telefon": "0038751217409"
+    }],
+    "Zenica": [{
+        "idx": 4001,
+        "adresa": "Alije Izetbegovica 86",
+        "naziv": "Multipleks Ekran",        
+        "lokacija": "44.198221,17.910354",
+        "telefon": "0038732407518"
+    }],
+    "Sarajevo": [{
+        "idx": 5001,
+        "adresa": "Marssala Tita 26",
+        "naziv": "Cinema City",        
+        "lokacija": "43.858513,18.415360",
+        "telefon": "0038733567288"
+    }]
+}
